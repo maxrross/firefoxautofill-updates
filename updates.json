@@ -1,0 +1,18 @@
+{
+  "addons": {
+    "checkout-autofill@local.invalid": {
+      "updates": [
+        {
+          "version": "0.2.3",
+          "update_link": "https://maxrross.github.io/firefoxautofill-updates/checkout_autofill-0.2.3.xpi",
+          "update_hash": "sha256:a2c61bf6c1a63f496ce5f072fa98a51c5f9e955e79e01f6c08618765ec4d82f2",
+          "applications": {
+            "gecko": {
+              "strict_min_version": "142.0"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
